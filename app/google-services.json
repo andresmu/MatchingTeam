@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "205282322405",
+    "firebase_url": "https://matchingteam-e56b0.firebaseio.com",
+    "project_id": "matchingteam-e56b0",
+    "storage_bucket": "matchingteam-e56b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205282322405:android:f9c5ce94f0e6ed04",
+        "android_client_info": {
+          "package_name": "andres.cl.matchingteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205282322405-bo5fvlac8kcprjqsa6o96jroh0fqhgif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "andres.cl.matchingteam",
+            "certificate_hash": "47fd2a897eab9ea0b4c4f58351c19b775831b44a"
+          }
+        },
+        {
+          "client_id": "205282322405-5kp725d9k66tfe6lfb98b97vt3f02s6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd3XKFgrg1jNcB5QXYJAuqP1mC3GdyGzo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205282322405-5kp725d9k66tfe6lfb98b97vt3f02s6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
